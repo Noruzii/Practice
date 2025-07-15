@@ -6,7 +6,7 @@ public class 1 : MonoBehaviour
     void Start()
     {
         print("sdfsdf");
-    }
+    }dsafasd
 
     // Update is called once per frame
     void Update()
@@ -14,3 +14,4 @@ public class 1 : MonoBehaviour
         print("dfsafergdrfgdf")dfdsffdsafds
     }
 }
+sdfsda
