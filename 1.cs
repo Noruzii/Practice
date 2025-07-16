@@ -1,4 +1,4 @@
-fdfdsfsdusing UnityEngine;
+fdsffdfdsfsdusing UnityEngine;
 
 public class 1 : MonoBehaviour
 {
@@ -12,6 +12,6 @@ public class 1 : MonoBehaviour
     void Update()
     {
         print("dfsafergdrfgdf")dfdsffdsafdsdsfdsf
-    }
+    }dsf
 fdfsddsfdsdsfdsf}
 sdfsdadsfsadrrfsdfd
