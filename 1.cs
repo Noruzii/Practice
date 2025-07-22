@@ -7,7 +7,7 @@ public class 1 : MonoBehaviour
     {
 
 
-    // Update is called once per frame
+sdafdsaf    // Update is called once per frame
     void Update()
     {
         print("dfsafergdrfgdf")dfdsffdsafdsdsfdsf
